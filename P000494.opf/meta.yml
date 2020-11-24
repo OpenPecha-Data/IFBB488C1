@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20585
   title: གསར་བརྗེའི་རྒན་རབས་པ་བདུན་གྱི་གཏམ་རྒྱུད།
-  volume: ''
+  volume:
+    0ea91cd98b574cb7bf716932cfd9de2d:
+      image_group_id: I8LS20587
+      title: Volume 1 of gsar bar+j+je'i rgan rabs pa bdun gi gtam rgyud/
+      volume_number: 1
+      total_pages: 426
   author: ''
+ebook_metadata:
+  title: གསར་བརྗེའི་རྒན་རབས་པ་བདུན་གྱི་གཏམ་རྒྱུད།
+  author: ''
+  sku: P000494
+  cover: cover.jpg
+  layers:
+  - pagination
