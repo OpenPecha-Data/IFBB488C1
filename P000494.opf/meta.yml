@@ -1,7 +1,7 @@
 id: P000494
 initial_creation_type: ocr
 created_at: 23/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-16 15:42:52.418408
 source_metadata:
   id: bdr:W8LS20585
   title: གསར་བརྗེའི་རྒན་རབས་པ་བདུན་གྱི་གཏམ་རྒྱུད།
@@ -13,3 +13,5 @@ source_metadata:
       volume_number: 1
       total_pages: 426
       base_file: v001.txt
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
